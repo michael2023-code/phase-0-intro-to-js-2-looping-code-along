@@ -7,7 +7,7 @@
      }
      return messages;
    }
-   console.log(writeCards(["Mike", "Jose", "Eric"], wedding))
+   console.log(writeCards(["Mike", "Jose", "Eric"], "wedding"))
 
    function countDown(number){
       while(number>=0){
